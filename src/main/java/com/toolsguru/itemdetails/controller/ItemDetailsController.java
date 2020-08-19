@@ -24,5 +24,5 @@ public class ItemDetailsController {
     List<Category> all() {
         return itemDetailsService.findAll();
     }
-    
+
 }
